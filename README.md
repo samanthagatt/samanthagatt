@@ -3,7 +3,7 @@ Links: [Website](https://samanthagatt.com/) | [LinkedIn](https://www.linkedin.co
 
 🔭 I’m currently working on [Paint a Pic](https://github.com/samanthagatt/Paint-a-Pic) <br>
 🌱 I’m currently learning [Combine](https://github.com/samanthagatt/Combine) and [Vapor](https://github.com/samanthagatt/Vapor-Blog), and [dabbling in ServiceNow](https://github.com/samanthagatt/devtraining-needit-orlando) <br>
-⚡ Fun fact: Authored the genome annotation of a bacteriophage virus, [Rem711](https://www.ncbi.nlm.nih.gov/nuccore/MG770216)
+⚡ Fun fact: Authored the genome annotation of the virus, [Rem711](https://www.ncbi.nlm.nih.gov/nuccore/MG770216)
 
 <!--
 **samanthagatt/samanthagatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
