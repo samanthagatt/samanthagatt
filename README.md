@@ -1,5 +1,5 @@
 ### Hi there 👋
-Links: [Website](https://samanthagatt.com/) | [LinkedIn](https://www.linkedin.com/in/samantha-gatt/)
+🔗 Links: [Website](https://samanthagatt.com/) | [LinkedIn](https://www.linkedin.com/in/samantha-gatt/)
 
 🔭 I’m currently working on [Paint a Pic](https://github.com/samanthagatt/Paint-a-Pic) <br>
 🌱 I’m currently learning [Combine](https://github.com/samanthagatt/Combine) and [Vapor](https://github.com/samanthagatt/Vapor-Blog), and [dabbling in ServiceNow](https://github.com/samanthagatt/devtraining-needit-orlando) <br>
